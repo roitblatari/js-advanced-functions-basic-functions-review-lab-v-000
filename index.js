@@ -33,5 +33,7 @@ let Calculator = {
 
 function actionApplyer (start, array){
 let num = start
-for(let i = 0, )
+for(let i = 0, i < array.length, i++0){
+  
+}
 }
