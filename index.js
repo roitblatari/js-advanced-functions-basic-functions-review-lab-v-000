@@ -32,10 +32,9 @@ let Calculator = {
 
 
 function actionApplyer (start, array){
-let a = start
-for(let i = 0, i < array.length, i++){
-   a = ray[i](a)
-  }
-
-  return a
+  let a = start
+    for(let i = 0, i < array.length, i++){
+       a = array[i](a)
+      }
+    return a
 }
