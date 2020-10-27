@@ -30,6 +30,8 @@ let Calculator = {
   } ,
 }
 
-function actionApplyer (sorting, array){
-  
+
+function actionApplyer (start, array){
+let num = start
+for(let i = 0, )
 }
